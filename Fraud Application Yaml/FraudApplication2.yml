@@ -7,7 +7,7 @@ spring:
   datasource:
     username: 'sartech'
     password: 'password'
-    url: jdbc:postgresql://localhost:5432/customer
+    url: jdbc:postgresql://localhost:5432/fraud
   jpa:
     hibernate:
       ddl-auto: update
